@@ -1,6 +1,6 @@
 # Prática em Python
 
-Procura-se botar na prática os diferentes algoritmos aprendidos na linguagem Python
+Procura-se botar na prática os diferentes algoritmos aprendidos na linguagem de programação Python
 
 Os exercicios vão desde o nível básico até o avançado
 
