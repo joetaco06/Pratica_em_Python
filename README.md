@@ -2,7 +2,7 @@
 
 # Resumo:
 
-Este repositório tem como objetivo colocar em prática diferentes algoritmos aprendidos na linguagem de programação Python
+Este repositório tem como objetivo colocar em prática diferentes algoritmos aprendidos na linguagem de programação  Python
 
 Os exercícios abrangem desde o nível básico até o avançado, permitindo uma evolução progressiva nas habilidades.
 
